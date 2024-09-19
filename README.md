@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kishan</h1>
-<h3 align="center">A Math geek trying my hands on AI.</h3>
+<h3 align="center">I am a math geek currently trying my hands on AI.</h3>
 
 - 🌱 Currently working on Reinforcement Learning and its applications.
 
-- 💬 Ask me about **Math, Machine Learning and AI**
+- 💬 Happy to chat about **Math, Machine Learning, AI and music anytime.**
 
-- 📫 How to reach me **kishanchakraborty833@gmail.com**
+- 📫 If you would like to connect reach me at **kishanchakraborty833@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
