@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan</h1>
 <h3 align="center">A Math geek trying my hands on AI.</h3>
 
-- 🌱 Currently working on Reinforcement Learning and applications.
+- 🌱 Currently working on Reinforcement Learning and its applications.
 
 - 💬 Ask me about **Math, Machine Learning and AI**
 
